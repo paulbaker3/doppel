@@ -1,0 +1,7 @@
+doppel_job_template:
+  opts:
+    blacklisted_classes: [Version]
+    pre_authorized_classes: []
+    authorizing_user_id: 1
+    seed_instances:
+      Firm: 1

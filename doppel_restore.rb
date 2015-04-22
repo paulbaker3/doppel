@@ -129,7 +129,7 @@ class DoppelRestore
   end
 
   def remote_host
-    'reportingdb.capshare.com'
+    'your.database.here.com'
   end
 
   def schema_file

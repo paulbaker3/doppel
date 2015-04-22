@@ -58,3 +58,4 @@ class Doppel
     logit "#{identify_myself} started at #{@started}", level: :info
   end
 end
+

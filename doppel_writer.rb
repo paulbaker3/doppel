@@ -151,3 +151,4 @@ class DoppelWriter
     object.class.name
   end
 end
+

@@ -5,3 +5,4 @@ doppel_job_template:
     authorizing_user_id: 1
     seed_instances:
       Firm: 1
+      
